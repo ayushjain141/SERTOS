@@ -1,0 +1,24 @@
+#ignore generated object files
+*.crf
+*.d
+*.o
+*.lnp
+*.dep
+
+#ignore generated listing files
+*.i
+*.lst
+*.axf
+*.map
+*.htm
+.vscode/
+*.dbgconf
+*.scvd
+*.iex
+*.hex
+*.uvoptx
+*.uvguix.*
+*.uvprojx
+DebugConfig
+Listings
+Objects
